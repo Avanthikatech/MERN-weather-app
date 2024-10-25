@@ -1,0 +1,74 @@
+[
+    {
+        "city": "London",
+        "temperature": 15,
+        "humidity": 76,
+        "windSpeed": 10,
+        "condition": "Cloudy",
+        "icon": "https://openweathermap.org/img/wn/04d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "New York",
+        "temperature": 20,
+        "humidity": 65,
+        "windSpeed": 5,
+        "condition": "Sunny",
+        "icon": "https://openweathermap.org/img/wn/01d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "Tokyo",
+        "temperature": 22,
+        "humidity": 50,
+        "windSpeed": 3,
+        "condition": "Clear",
+        "icon": "https://openweathermap.org/img/wn/01d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "Sydney",
+        "temperature": 25,
+        "humidity": 70,
+        "windSpeed": 8,
+        "condition": "Partly Cloudy",
+        "icon": "https://openweathermap.org/img/wn/02d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "Mumbai",
+        "temperature": 30,
+        "humidity": 85,
+        "windSpeed": 12,
+        "condition": "Rain",
+        "icon": "https://openweathermap.org/img/wn/10d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "Cairo",
+        "temperature": 28,
+        "humidity": 40,
+        "windSpeed": 15,
+        "condition": "Sunny",
+        "icon": "https://openweathermap.org/img/wn/01d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "Rio de Janeiro",
+        "temperature": 32,
+        "humidity": 60,
+        "windSpeed": 10,
+        "condition": "Thunderstorms",
+        "icon": "https://openweathermap.org/img/wn/11d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    },
+    {
+        "city": "Cape Town",
+        "temperature": 18,
+        "humidity": 55,
+        "windSpeed": 7,
+        "condition": "Fog",
+        "icon": "https://openweathermap.org/img/wn/50d.png",
+        "timestamp": "2024-10-24T08:30:00Z"
+    }
+]
